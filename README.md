@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.codacy.com/gh/tamirysnogueira/Horizon/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamirysnogueira/Horizon&amp;utm_campaign=Badge_Grade">
-        <img src="https://app.codacy.com/project/badge/Grade/eedc352aec1046aa900759c7289b5b41">
+    <a href="https://www.codacy.com/gh/tamirysnogueira/Joker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamirysnogueira/Joker&amp;utm_campaign=Badge_Grade">
+        <img src="https://app.codacy.com/project/badge/Grade/667d69f4b3cf4f2eb2e79d8406346fb6">
     </a>
     <a href="https://github.com/tamirysnogueira/Deezer/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
